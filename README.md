@@ -1,2 +1,2 @@
-# ofl
+# Welcome
 Open Facilitation Library
