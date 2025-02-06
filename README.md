@@ -68,7 +68,7 @@ See [Customization Guide](docs/customization.md) for detailed instructions.
 
 ## 🐛 Bug Reports
 
-1. Check if the issue already exists in [Issues](https://github.com/yourusername/open-facilitation-library/issues)
+1. Check if the issue already exists in [Issues](https://github.com/zhiganov/open-facilitation-library/issues)
 2. Use our bug report template
 3. Include:
    - Steps to reproduce
@@ -79,7 +79,7 @@ See [Customization Guide](docs/customization.md) for detailed instructions.
 
 ## ✨ Feature Requests
 
-1. Check existing [Feature Requests](https://github.com/yourusername/open-facilitation-library/labels/enhancement)
+1. Check existing [Feature Requests](https://github.com/zhiganov/open-facilitation-library/labels/enhancement)
 2. Use our feature request template
 3. Include:
    - Use case
@@ -108,7 +108,7 @@ We love your input! See our [Contributing Guide](CONTRIBUTING.md) for details on
 ## 🏆 Top Contributors
 
 - [Name](https://github.com/username) - Core Maintainer
-- [Name](https://github.com/username) - Pattern Library Lead
+- [Name](https://github.com/zhiganov) - Pattern Library Lead
 - [Name](https://github.com/username) - ML Infrastructure
 
 ## 🤝 Partners
